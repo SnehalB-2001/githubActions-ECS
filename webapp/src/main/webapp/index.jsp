@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	  <h1>Welcome to Snehal Devops Learning Channel</h1>
+	  <h1>Welcome to Devops Learning : ) </h1>
     <h1>New user Register First by following instructions</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
