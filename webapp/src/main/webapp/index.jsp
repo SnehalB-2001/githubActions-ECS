@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 	<h1>Welcome to Devops Learning with Snehal :)</h1>
-    <h3>New user Register First by following instructions</h3>
+    <h3>New user Register First by following instructions.</h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
